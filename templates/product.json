@@ -95,9 +95,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "Specs",
             "icon": "leather",
-            "content": "",
+            "content": "<p>Frame - 900 Series OCLV Carbon</p><p>WeightML - 7.52 kg / 16.58 lbs (with TLR sealant, no tubes, no bottles/cages)</p><p>Drivetrain - Shimano Ultegra Di2,2x12</p><p>Wheels - Bontrager Aeolus Pro 51, OCLV Carbon<br/></p>",
             "page": ""
           }
         },
