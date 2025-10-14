@@ -9,13 +9,13 @@
  */
 {
   "current": {
-    "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#121212",
+    "colors_solid_button_labels": "#65696f",
+    "colors_accent_1": "#c4a575",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#b1b8c0",
     "gradient_accent_2": "",
-    "colors_text": "#121212",
-    "colors_outline_button_labels": "#121212",
+    "colors_text": "#677989",
+    "colors_outline_button_labels": "#d3d7da",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
@@ -113,7 +113,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "inverse",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
