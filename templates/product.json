@@ -49,13 +49,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "Trek Madone gen 8",
-            "text_style": "uppercase"
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -68,10 +61,6 @@
           "settings": {
             "picker_type": "button"
           }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -121,10 +110,8 @@
         }
       },
       "block_order": [
-        "vendor",
         "caption",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "description",
         "collapsible-row-0",
