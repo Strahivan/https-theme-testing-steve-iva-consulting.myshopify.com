@@ -64,8 +64,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Let us fix your bike!",
-            "heading_size": "h1"
+            "heading": "Your bike needs care too!",
+            "heading_size": "h2"
           }
         },
         "text": {
