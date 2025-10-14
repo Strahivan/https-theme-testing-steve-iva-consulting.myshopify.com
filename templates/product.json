@@ -15,21 +15,21 @@
         "heading_6jcCjq": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "TREK MADONE GEN 8",
+            "heading_size": "h2"
           }
         },
         "text_9hJGBJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Road bike!</p><p>_</p><p>_</p>",
             "text_style": "body"
           }
         },
         "button_Xy8U9Q": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Add to cart",
             "button_link": ""
           }
         }
@@ -71,12 +71,9 @@
             "text_style": "subtitle"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
@@ -141,7 +138,6 @@
       "block_order": [
         "vendor",
         "caption",
-        "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
