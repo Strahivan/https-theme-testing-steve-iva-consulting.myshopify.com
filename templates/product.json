@@ -12,10 +12,18 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "title_QMtEHc": {
+          "type": "title",
+          "settings": {}
+        },
+        "description_kMW6nA": {
+          "type": "description",
+          "settings": {}
+        },
         "caption": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text": "",
             "text_style": "subtitle"
           }
         },
@@ -27,6 +35,8 @@
         }
       },
       "block_order": [
+        "title_QMtEHc",
+        "description_kMW6nA",
         "caption",
         "buy_buttons"
       ],
