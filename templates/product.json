@@ -9,43 +9,6 @@
  */
 {
   "sections": {
-    "image_with_text_kKFKTR": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_6jcCjq": {
-          "type": "heading",
-          "settings": {
-            "heading": "TREK MADONE GEN 8",
-            "heading_size": "h2"
-          }
-        },
-        "text_9hJGBJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Road bike!</p><p>_</p><p>_</p><p>_</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_6jcCjq",
-        "text_9hJGBJ"
-      ],
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/Ratas_1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -56,68 +19,16 @@
             "text_style": "subtitle"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "description": {
-          "type": "description",
-          "settings": {}
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Specs",
-            "icon": "leather",
-            "content": "<p>Frame - 900 Series OCLV Carbon</p><p>WeightML - 7.52 kg / 16.58 lbs (with TLR sealant, no tubes, no bottles/cages)</p><p>Drivetrain - Shimano Ultegra Di2,2x12</p><p>Wheels - Bontrager Aeolus Pro 51, OCLV Carbon<br/></p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "caption",
-        "variant_picker",
-        "buy_buttons",
-        "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -149,7 +60,6 @@
     }
   },
   "order": [
-    "image_with_text_kKFKTR",
     "main",
     "product-recommendations"
   ]
