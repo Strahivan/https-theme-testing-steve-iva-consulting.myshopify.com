@@ -22,7 +22,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Custom bike builds and professional repairs",
+            "text": "Roadbikes for winners and enjoyers!",
             "text_style": "caption-with-letter-spacing"
           }
         }
@@ -52,14 +52,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Your bike needs care too!",
+            "heading": "We'll get you the best roadbike!",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><br/><em>At TrueWheel, we specialize in expert bike repairs, tune-ups, and custom builds to keep you riding smoothly and safely. Whether you’re a daily commuter, weekend warrior, or hardcore cyclist, our experienced mechanics provide honest, reliable service for all types of bikes.<br/></em><br/></p>"
+            "text": "<h5>Find your ideal roadbike with our personalized recommendations. Benefit from exceptional customer care and reliable maintenance solutions.</h5>"
           }
         }
       },
