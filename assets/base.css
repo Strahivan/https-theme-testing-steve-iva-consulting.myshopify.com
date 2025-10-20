@@ -2873,3 +2873,11 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+
+/* -- canyon logo -- */
+
+.payment-iyzico { 
+ width: 40px;
+   filter: grayscale(100%);
+}
+/* -- end -- */
