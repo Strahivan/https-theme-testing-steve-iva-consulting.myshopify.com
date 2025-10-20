@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "Canyon",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_Nd9Yti": {
@@ -29,10 +29,10 @@
         "buttons_kH3J7t": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Shop bikes",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "Shop gear",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -49,7 +49,7 @@
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-right",
+        "desktop_content_position": "top-right",
         "show_text_box": false,
         "desktop_content_alignment": "right",
         "color_scheme": "background-1",
