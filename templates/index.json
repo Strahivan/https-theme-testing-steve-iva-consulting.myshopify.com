@@ -419,7 +419,7 @@
       "type": "featured-blog",
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
-        "heading": "Size guides",
+        "heading": "Blog posts",
         "heading_size": "h2",
         "blog": "news",
         "post_limit": 3,
