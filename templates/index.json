@@ -58,6 +58,134 @@
         "show_text_below": false
       }
     },
+    "rich_text_MRRW6k": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pyf7Wn": {
+          "type": "heading",
+          "settings": {
+            "heading": "HIGH-END BIKES. LOW PRICES.",
+            "heading_size": "h2"
+          }
+        },
+        "text_QLDkMt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop our high-end bikes on a budget!</p>"
+          }
+        },
+        "button_DLwLrz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop sale",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pyf7Wn",
+        "text_QLDkMt",
+        "button_DLwLrz"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_dQrMFT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8H3ddp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/canyon_mountain_bikes.webp",
+            "title": "Mountain bikes",
+            "text": "",
+            "link_label": "Shop here",
+            "link": ""
+          }
+        },
+        "column_p9WPLV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/canyon_gravel.jpg",
+            "title": "Gravel Bikes",
+            "text": "",
+            "link_label": "Shop here",
+            "link": ""
+          }
+        },
+        "column_x4VpVr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/canyon_road.jpg",
+            "title": "Road bikes",
+            "text": "",
+            "link_label": "Shop here",
+            "link": ""
+          }
+        },
+        "column_3PxMfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/canyon_city.jpg",
+            "title": "City bikes",
+            "text": "",
+            "link_label": "Shop here",
+            "link": ""
+          }
+        },
+        "column_VGFKrk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Canyon_gear_4b5f6278-fbbe-49bd-97b0-919140694e17.webp",
+            "title": "Gear",
+            "text": "",
+            "link_label": "Shop here",
+            "link": ""
+          }
+        },
+        "column_VJqULW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/canyon_sale.webp",
+            "title": "Sale",
+            "text": "",
+            "link_label": "Shop here",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8H3ddp",
+        "column_p9WPLV",
+        "column_x4VpVr",
+        "column_3PxMfn",
+        "column_VGFKrk",
+        "column_VJqULW"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Shop your preference",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -88,6 +216,8 @@
   },
   "order": [
     "image_banner_pjyTJx",
+    "rich_text_MRRW6k",
+    "multicolumn_dQrMFT",
     "featured_collection"
   ]
 }
