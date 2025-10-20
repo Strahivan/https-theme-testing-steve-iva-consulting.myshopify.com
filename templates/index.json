@@ -19,13 +19,6 @@
             "heading_size": "h1"
           }
         },
-        "text_Nd9Yti": {
-          "type": "text",
-          "settings": {
-            "text": "Best bikes for your money!",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
         "buttons_kH3J7t": {
           "type": "buttons",
           "settings": {
@@ -40,7 +33,6 @@
       },
       "block_order": [
         "heading_EPzXVr",
-        "text_Nd9Yti",
         "buttons_kH3J7t"
       ],
       "name": "t:sections.image-banner.presets.name",
@@ -56,6 +48,23 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "image_banner_Ye7Ykm": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/canyon_road_image.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text_MRRW6k": {
@@ -103,7 +112,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/canyon_mountain_bikes.webp",
-            "title": "Mountain bikes",
+            "title": "Mountain",
             "text": "",
             "link_label": "Shop here",
             "link": ""
@@ -113,7 +122,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/canyon_gravel.jpg",
-            "title": "Gravel Bikes",
+            "title": "Gravel",
             "text": "",
             "link_label": "Shop here",
             "link": ""
@@ -123,7 +132,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/canyon_road.jpg",
-            "title": "Road bikes",
+            "title": "Road",
             "text": "",
             "link_label": "Shop here",
             "link": ""
@@ -133,7 +142,7 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/canyon_city.jpg",
-            "title": "City bikes",
+            "title": "City",
             "text": "",
             "link_label": "Shop here",
             "link": ""
@@ -217,6 +226,7 @@
   "order": [
     "image_banner_pjyTJx",
     "rich_text_MRRW6k",
+    "image_banner_Ye7Ykm",
     "multicolumn_dQrMFT",
     "featured_collection"
   ]
