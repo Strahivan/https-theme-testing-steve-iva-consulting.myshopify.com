@@ -376,30 +376,41 @@
         "show_text_below": true
       }
     },
-    "featured_collection_pYwea4": {
-      "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
+    "collage_BRq6ng": {
+      "type": "collage",
+      "blocks": {
+        "product_hna8iU": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_L3YXr7": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection_qMkPFV": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_hna8iU",
+        "collection_L3YXr7",
+        "collection_qMkPFV"
+      ],
+      "name": "t:sections.collage.presets.name",
       "settings": {
-        "title": "Shop gear",
+        "heading": "Parts & Accessories",
         "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "gear",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -418,6 +429,6 @@
     "image_banner_tBpjJh",
     "featured_collection_nnMMk3",
     "image_banner_QX67Ga",
-    "featured_collection_pYwea4"
+    "collage_BRq6ng"
   ]
 }
