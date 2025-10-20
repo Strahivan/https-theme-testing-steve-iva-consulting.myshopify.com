@@ -117,7 +117,7 @@
         "collection": "road-bikes-1",
         "products_to_show": 5,
         "columns_desktop": 5,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
@@ -224,21 +224,22 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
+    "featured_collection_WwEy3k": {
       "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Featured products",
+        "title": "Shop Gravel bikes",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
+        "collection": "gravel",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -246,8 +247,8 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
+        "swipe_on_mobile": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
@@ -258,6 +259,6 @@
     "image_banner_Ye7Ykm",
     "featured_collection_kJ6pb4",
     "multicolumn_dQrMFT",
-    "featured_collection"
+    "featured_collection_WwEy3k"
   ]
 }
