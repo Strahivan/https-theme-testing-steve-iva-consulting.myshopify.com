@@ -27,6 +27,10 @@
             "text_style": "subtitle"
           }
         },
+        "price_qWTMtq": {
+          "type": "price",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -38,6 +42,7 @@
         "title_QMtEHc",
         "description_kMW6nA",
         "caption",
+        "price_qWTMtq",
         "buy_buttons"
       ],
       "settings": {
